@@ -1,0 +1,70 @@
+
+
+/*重置样式*/
+* {
+	margin:0;
+	padding:0;
+}
+ul, li, dl, dt, dd {
+	list-style:none;
+}
+a {
+	text-decoration:none;
+	color:#fff;
+}
+a:hover {
+	text-decoration:none;
+}
+img {
+	border:none;
+}
+/*公用样式*/
+body {
+	font-family:'微软雅黑', Helvetica, sans-serif;
+	font-size:14px;
+	color:#333;
+	background:#F0F2F5;background:url(../images/bg.jpg) center top fixed;
+}
+#header {
+	width:1000px;
+	margin:0 auto;
+}
+#nav {
+	width:1000px;
+	margin:0 auto;
+	background:#000;
+	height:40px;
+	line-height:40px;
+}
+#nav a {
+	padding:0px 30px;
+	font-size:14px;
+}
+.cont {
+	width:940px;
+	margin:0 auto;
+	background:#fff;
+	padding:15px 30px;
+	line-height:40px;
+}
+.cont h2 {
+	font-size:30px;
+	color:#E0503D;
+	margin-bottom:30px;
+}
+.cont p {
+	font-size:16px;
+}
+#bottom {
+	width:960px;
+	margin:0 auto;padding:20px;background:#fff;
+}
+#bottom p {
+	text-align:center;
+	line-height:50px;
+}
+#aa { text-align:center;}
+#aa a{color:#333;}
+
+
+#cc img{border:1px solid #ddd;}
